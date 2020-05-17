@@ -1,0 +1,6 @@
+tensorflow_gpu==2.2.0
+matplotlib
+opencv-python==4.2.0.34
+ipykernel
+ipywidgets
+tensorflow-datasets==3.0.0

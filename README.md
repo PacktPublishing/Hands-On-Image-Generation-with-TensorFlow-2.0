@@ -27,4 +27,6 @@ Hands-On Image Generation with TensorFlow 2.0, published by Packt
 - iGAN
 - GauGAN
 
-
+7. High Fidelity Image Generation
+- Progressive GAN
+- Style GAN

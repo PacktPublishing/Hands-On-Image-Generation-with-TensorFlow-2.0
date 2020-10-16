@@ -30,3 +30,8 @@ Hands-On Image Generation with TensorFlow 2.0, published by Packt
 7. High Fidelity Image Generation
 - Progressive GAN
 - Style GAN
+
+8. Attention-based Generative Models
+- Self-Attention GAN (SAGAN)
+- BigGAN
+

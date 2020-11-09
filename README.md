@@ -35,3 +35,23 @@ Hands-On Image Generation with TensorFlow 2.0, published by Packt
 - Self-Attention GAN (SAGAN)
 - BigGAN
 
+9. Video Synthesis
+- DeepFake
+
+## Installation
+#### Create Virtual Environment
+python3 -m venv ./venv/imgentf2
+
+#### Source Virtual environment
+source ./venv/imgentf2/bin/activate
+
+#### Install dependencies
+pip3 install --upgrade pip
+pip3 install -r requirements.txt
+
+#### Add virtual environment into jupyter notebook
+python -m ipykernel install --user --name=imgentf2
+
+#### Enable jupyter notebook extension
+jupyter nbextension enable --py widgetsnbextension
+

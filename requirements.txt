@@ -2,6 +2,9 @@ tensorflow_gpu==2.2.0
 tensorflow_addons==0.10.0
 tensorflow-datasets==3.0.0
 opencv-python==4.2.0.34
+dlib==19.21.0
+face_recognition==1.2.3
+tqdm
 matplotlib
 ipykernel
 ipywidgets

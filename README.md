@@ -34,7 +34,7 @@ The code in this book uses tensorflow_gpu==2.2.0
 - Progressive GAN
 - Style GAN
 
-8. Attention-based Generative Models
+8. Self-Attention for Image Generation
 - Self-Attention GAN (SAGAN)
 - BigGAN
 

@@ -1,5 +1,8 @@
-# Hands-On-Image-Generation-with-TensorFlow-2.0
-Hands-On Image Generation with TensorFlow 2.0, published by Packt
+# Hands-On-Image-Generation-with-TensorFlow
+Hands-On Image Generation with TensorFlow, published by Packt
+https://www.amazon.com/dp/1838826785
+
+The code in this book uses tensorflow_gpu==2.2.0
 
 1. Getting Started with Image Generation with Tensorflow
 - PixelCNN

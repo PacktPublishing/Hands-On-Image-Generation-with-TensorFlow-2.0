@@ -3,6 +3,8 @@
 -----
 *The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
 
+## Note
+The Jupyter notebooks contain large images therefore they may not load properly on Github page. Therefore, it is best to Git clone to view in your local machine.
 
 # Hands-On Image Generation with TensorFlow
 

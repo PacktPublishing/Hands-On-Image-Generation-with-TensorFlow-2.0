@@ -1,4 +1,4 @@
-## Note
+## Viewing the Notebooks
 The Jupyter notebooks contain large images therefore they may not load properly on Github page. Therefore, it is best to Git clone to view in your local machine.
 
 # Hands-On Image Generation with TensorFlow
@@ -30,8 +30,21 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B08L
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
+## Citation
+Please use this bibtex for citation
+```
+@book{cheong2020hands,
+  title={Hands-On Image Generation with TensorFlow},
+  author={Cheong, S.Y.},
+  isbn={9781838826789},
+  url={https://www.amazon.com/dp/B08LVL4FPN},
+  year={2020},
+  publisher={Packt Publishing}
+}
+```
+
 ## Instructions and Navigations
-The code in this book uses tensorflow_gpu==2.2.0
+The code in this book uses tensorflow_gpu==2.2.0, and is compatitible with version up to 2.3.0
 
 The code will look like the following:
 ```

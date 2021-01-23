@@ -100,6 +100,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Soon Yau Cheong** is an AI consultant and the founder of Sooner.ai Ltd. With a history of being associated with industry giants such as NVIDIA and Qualcomm, he provides consultation in the various domains of AI, such as deep learning, computer vision, natural language processing, and big data analytics. He was awarded a full scholarship to study for his PhD at the University of Bristol while working as a teaching assistant. He is also a mentor for AI courses with Udacity.
 
+## Note from the Author
+I hope you will enjoy reading my book. If you do, I would be most grateful if you could write a book review on Amazon.
+
+Please feel free to connect with me on www.linkedin.com/in/soonyau. Please add a note saying that you've read my book and I will gladly accept your connection request.
 
 
 

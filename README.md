@@ -26,6 +26,13 @@ This book covers the following exciting features:
 * Become well versed in attention generative models such as SAGAN and BigGAN
 * Generate high-resolution photos with Progressive GAN and StyleGAN
 
+You can also checkout on my [blog](https://soon-yau.medium.com/learn-and-master-ai-for-image-generation-423978e2f95f?sk=7ddc810a5f86021bc79792bf6af2eaed
+) for detailed book overview
+<a href="https://soon-yau.medium.com/learn-and-master-ai-for-image-generation-423978e2f95f?sk=7ddc810a5f86021bc79792bf6af2eaed"><img src="https://miro.medium.com/max/600/1*Mquod9zFArGAz4sJ9OIgfw.gif" alt="" border="5" /></a>
+
+The images above were generated using StyleGAN code in the book. You too can do it using the Jupyter notebook and pretrained model provided.
+
+
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B08LVL4FPN) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>

@@ -7,7 +7,13 @@ The Jupyter notebooks contain large images therefore they may not load properly 
 
 This is the code repository for [Hands-On Image Generation with TensorFlow](https://www.packtpub.com/product/hands-on-image-generation-with-tensorflow/9781838826789?utm_source=github&utm_medium=repository&utm_campaign=9781838826789), published by Packt.
 
+
 **A practical guide to generating images and videos using deep learning**
+
+
+**Recommended by Francois Chollet, Google AI, Creator of Keras**
+
+*"All TensorFlow/Keras, with very readable code examples. Includes a section on StyleGAN, which will come in handy ... it's well explained."*
 
 ## What is this book about?
 The emerging field of Generative Adversarial Networks (GANs) has made it possible to generate indistinguishable images from existing datasets. With this hands-on book, you’ll not only develop image generation skills but also gain a solid understanding of the underlying principles.
@@ -49,6 +55,18 @@ Please use this bibtex for citation
   publisher={Packt Publishing}
 }
 ```
+### Table of Content
+1. Getting started with Image generation with TensorFlow
+2. Variational Autoencoder
+3. Generative Adversarial Network
+4. Image-to-Image Translation
+5. Style Transfer
+6. AI Painter
+7. High Fidelity Face Generation
+8. Self-Attention for Image Generation
+9. Video Synthesis
+10 .Road Ahead
+
 
 ## Instructions and Navigations
 The code in this book uses tensorflow_gpu==2.2.0, and is compatitible with version up to 2.3.0

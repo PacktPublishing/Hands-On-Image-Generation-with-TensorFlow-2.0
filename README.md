@@ -47,10 +47,10 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B08L
 Please use this bibtex for citation
 ```
 @book{cheong2020hands,
-  title={Hands-On Image Generation with TensorFlow},
+  title={Hands-On Image Generation with TensorFlow: A practical guide to generating images and videos using deep learning},
   author={Cheong, S.Y.},
   isbn={9781838826789},
-  url={https://www.amazon.com/dp/B08LVL4FPN},
+  url={https://books.google.co.uk/books?id=tGcREAAAQBAJ},
   year={2020},
   publisher={Packt Publishing}
 }

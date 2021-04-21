@@ -5,13 +5,10 @@ The Jupyter notebooks contain large images therefore they may not load properly 
 
 <a href="https://www.packtpub.com/product/hands-on-image-generation-with-tensorflow/9781838826789?utm_source=github&utm_medium=repository&utm_campaign=9781838826789"><img src="https://static.packt-cdn.com/products/9781838826789/cover/smaller" alt="Hands-On Image Generation with TensorFlow" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Image Generation with TensorFlow](https://www.packtpub.com/product/hands-on-image-generation-with-tensorflow/9781838826789?utm_source=github&utm_medium=repository&utm_campaign=9781838826789), published by Packt.
+This is the code repository for [Hands-On Image Generation with TensorFlow : A practical guide to generating images and videos using deep learning](https://www.packtpub.com/product/hands-on-image-generation-with-tensorflow/9781838826789?utm_source=github&utm_medium=repository&utm_campaign=9781838826789)
+,published by Packt.
 
-
-**A practical guide to generating images and videos using deep learning**
-
-
-**Recommended by Francois Chollet, Google AI, Creator of Keras**
+as recommended by **Francois Chollet, Google AI, Creator of Keras**
 
 *"All TensorFlow/Keras, with very readable code examples. Includes a section on StyleGAN, which will come in handy ... it's well explained."*
 

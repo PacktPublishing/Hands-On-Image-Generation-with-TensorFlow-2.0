@@ -8,3 +8,4 @@ tqdm
 matplotlib
 ipykernel
 ipywidgets
+packaging
